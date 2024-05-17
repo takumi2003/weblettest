@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 # WaveletTransformSoftware
 
-これはmainブランチです。基本的にここを書き換えることはしないでください。  
+ウェーブレット変換を行うアプリケーションです。
 
-=======
-# WaveletConversionSoftware
 
-ここはdevelopブランチです。featureで開発した機能をmergeする先です。
->>>>>>> develop
