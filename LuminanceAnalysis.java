@@ -1,6 +1,6 @@
 import java.awt.image.BufferedImage;
 public class LuminanceAnalysis {
-
+//testの追加
 	private double Red;
 
 	private double Value;
