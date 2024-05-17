@@ -18,6 +18,11 @@ main 完成形をdevelopからマージ
 develop featureからマージ  
 feature 機能作成ブランチ feature-** で作成  
 
+branchは新しい作業をするとき今の名前を変更して使ってください。  
+*やり方*  
+変更したいブランチで
+`git branch -m <新しいブランチ名>` 
+
 
 
 
